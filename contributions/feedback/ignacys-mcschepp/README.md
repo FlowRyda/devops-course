@@ -19,4 +19,4 @@ Feedback to Presentation of the Paper "Sigstore - software Signing for Everybody
 
 ## Description
 
-We have contacted the responsible group (Felix Castillo Huber (felixhh@kth.se) and Robin Widjeback (robinwid@kth.se)) and they agreed that we can provide feedback on their presentation, #3098 (https://github.com/KTH/devops-course/pull/3098). We will post the feedback once we've met and have feedback to give. 
+We have contacted the responsible group (Felix Castillo Huber (felixhh@kth.se) and Robin Widjeback (robinwid@kth.se)) and they agreed that we can provide feedback on their presentation, #3098 (https://github.com/KTH/devops-course/pull/3098). The feedback is posted as a comment under their PR: https://github.com/KTH/devops-course/pull/3098#issuecomment-6037509745
